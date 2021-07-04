@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = ad@blinktank.de
+	name = Andreas Dahrendorf
